@@ -8,10 +8,8 @@ A comprehensive exploratory data analysis (EDA) project on a “Superstore” da
 ## 📂 Project Structure
 
 ```text
-├── data/
-│   └── Sample - Superstore.csv       # Raw dataset
-├── notebooks/
-│   └── Sales & Profit Analysis.ipynb # EDA, visualizations, insights
+├── Sample - Superstore.csv       # Raw dataset
+├── Sales & Profit Analysis.ipynb # EDA, visualizations, insights
 ├── images/                           # Static plots (for README)
 ├── requirements.txt                  # Python package dependencies
 └── README.md                         # Project overview and instructions
