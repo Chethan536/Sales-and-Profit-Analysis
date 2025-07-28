@@ -1,4 +1,4 @@
-````markdown
+
 # Sales and Profit Analysis
 
 A comprehensive exploratory data analysis (EDA) project on a “Superstore” dataset to uncover insights into sales performance, profitability, and operational efficiency. This analysis covers data cleaning, time‑series trends, category performance, negative profit handling, and the impact of shipping modes on delivery times.
