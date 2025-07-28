@@ -19,6 +19,19 @@ A comprehensive exploratory data analysis (EDA) project on a “Superstore” da
 
 ---
 
+This project focuses on analyzing sales and profit trends over time, identifying top-performing categories and sub-categories, and deriving actionable insights for business growth. Using Python and libraries like pandas, matplotlib, and seaborn, we explore data-driven solutions to improve decision-making.
+
+
+1. What is the trend of sales and profit over time?
+2. Which regions contribute the most to sales and profit?
+3. Which cities and states are the most profitable?
+4. Which products are the most popular (highest quantity sold)?
+5. How do discounts affect profit margins across different categories and sub-categories?
+6. What is the customer segmentation based on sales and profit contribution?
+7. What is the shipping mode's impact on delivery time and customer satisfaction?
+
+---
+
 ## 📝 Dataset
 
 * **Source**: “Sample – Superstore.csv”
